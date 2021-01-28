@@ -1,4 +1,4 @@
 # test_learning_skills
 none
 
-at A
+A and B
